@@ -1,0 +1,7 @@
+# Swap files
+###################
+*.swp
+
+build/
+obj/
+lib/
